@@ -2,4 +2,8 @@
 
 原有的master
 
+<<<<<<< HEAD
 222222修复bug
+=======
+add login 111
+>>>>>>> login
